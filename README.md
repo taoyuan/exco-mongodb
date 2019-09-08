@@ -1,4 +1,7 @@
 # exco-mongodb [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/exco-mongodb.svg)](https://greenkeeper.io/)
+
 > A converter that convert mathjs expressions to mongodb arithmetic expressions
 
 ## Installation
